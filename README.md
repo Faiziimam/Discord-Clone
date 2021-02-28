@@ -1,4 +1,4 @@
-Project Link :https://faiziimam.github.io/Discord-Clone/
+Project Link :<a href="https://faiziimam.github.io/Discord-Clone/"><DISCORD</a>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
